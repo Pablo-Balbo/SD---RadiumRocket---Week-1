@@ -1,0 +1,1 @@
+https://edition.cnn.com/travel/article/richard-branson-virgin-voyages-scarlet-lady/index.html
