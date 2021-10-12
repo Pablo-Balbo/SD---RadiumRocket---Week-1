@@ -4,7 +4,7 @@
 
 This is the report from the Radium Rocket Software Developer course corresponding to week 1.
 
-During this week we worked copying a news in HTML.
+During this week we worked copying a news in HTML.  
 Soon we will try to style the news using the style sheets corresponding to the news of week 2.
 
 ---
